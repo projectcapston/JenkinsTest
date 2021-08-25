@@ -1,9 +1,1 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!")
-        }}
-]]]]]]]]]
-kaikai lek
-Samatha
-bai yu laikim yah!!
-hdhgdg
+echo 'Hellow
