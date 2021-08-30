@@ -1,1 +1,1 @@
-print("Welcome to our World!")
+prin("Welcome to our World!")
